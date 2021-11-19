@@ -13,3 +13,14 @@ arregloVacio = [];
 // para arbir la consola ctrl + shift + ñ
 
 f = ['Hola Emilia'];
+
+// Objetos {}
+peopleOne = {
+	name: 'Emilia',
+	lastName: 'Galarza',
+	friendsNames: ['Emilia', 'Nicolas', 'Lenin'],
+};
+
+//Booleanos
+true;
+false;
