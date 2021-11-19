@@ -11,3 +11,5 @@ vowels = ['a', 'e', 'i', 'o', 'u'];
 arregloVacio = [];
 
 // para arbir la consola ctrl + shift + ñ
+
+f = ['Hola Emilia'];
