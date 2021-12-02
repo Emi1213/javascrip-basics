@@ -24,3 +24,18 @@ peopleOne = {
 //Booleanos
 true;
 false;
+
+// CONST
+
+//LET
+
+const name = 'Emilia';
+const age = 17;
+const lastname = 'Galarza';
+
+let age = 17;
+let age = 18;
+let age = 25;
+
+var name = 'Emilia';
+var name = 'Lenin';
